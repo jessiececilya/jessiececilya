@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jessiececilya
-- 👀 I’m interested in Predictive analytics
-- 🌱 I’m currently learning NLP, Deep Learning
+- 👀 I’m interested in Predictive analytics, NLP, Deep Learning
 - 💞️ I’m looking to collaborate on analytics and research  
 - 📫 How to reach me jessiececilya@gmail.com
 
